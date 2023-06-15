@@ -62,3 +62,7 @@
 .simple-loading-rolling {
 	background-image: url(images/rolling.gif);
 }
+
+.simple-loading-eclipse {
+	background-image: url(images/eclipse.gif);
+}
